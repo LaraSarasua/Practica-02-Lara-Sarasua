@@ -10,6 +10,7 @@ def analizador_de_texto(texto):
         cantidad = len(palabras)
         palabras_por_linea.append(cantidad)
         total_palabras += cantidad
+        
     promedio = total_palabras / total_lineas
 
     lineas_superiores = []
