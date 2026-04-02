@@ -17,7 +17,10 @@ Este proyecto corresponde a la **Actividad 2 de Python 2026**, cuyo objetivo es 
 📁 proyecto
 │
 ├── 📁 notebooks
-│   └── actividad2.ipynb
+│   └── actividad1.ipynb
+        ....
+        ....
+        ....
 │
 ├── 📁 src
 │   ├── ejercicio1.py
